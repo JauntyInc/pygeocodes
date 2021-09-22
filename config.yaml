@@ -1,0 +1,9 @@
+gitUserId: JauntyInc
+gitRepoId: pygeocodes
+projectVersion: 1.0.0-alpha
+homepage: https://geo.codes
+packageName: geocodes
+projectName: geocodes 
+gitHost: github.com
+licenseName: Apache-2.0
+library: urllib3
